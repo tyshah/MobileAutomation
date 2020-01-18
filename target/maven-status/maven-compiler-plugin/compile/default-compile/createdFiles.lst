@@ -1,0 +1,3 @@
+com\cipl\MobileTests\AddContactTest.class
+com\cipl\MobilePages\AddContactPage.class
+com\cipl\MobilePages\TestBase.class
